@@ -1,0 +1,11 @@
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/icudtl.dat
+C:/Dev/presensi-flutter/build/windows/runner/Debug/flutter_windows.dll
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Dev/presensi-flutter/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

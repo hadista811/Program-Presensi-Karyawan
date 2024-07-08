@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Dev\presensi-flutter\build\windows\CMakeFiles\c194a42c1a41ca4ead81ac1222aec7f9\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{83A7D8F1-3F32-3D86-8558-5E5AD6229694}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

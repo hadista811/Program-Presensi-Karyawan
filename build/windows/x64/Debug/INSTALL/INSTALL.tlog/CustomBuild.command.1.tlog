@@ -1,0 +1,10 @@
+^C:\DEV\PRESENSI-FLUTTER\BUILD\WINDOWS\CMAKEFILES\C194A42C1A41CA4EAD81AC1222AEC7F9\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

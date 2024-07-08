@@ -1,0 +1,10 @@
+^C:\DEV\PRESENSI-FLUTTER\BUILD\WINDOWS\CMAKEFILES\C194A42C1A41CA4EAD81AC1222AEC7F9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Dev/presensi-flutter/windows -BC:/Dev/presensi-flutter/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Dev/presensi-flutter/build/windows/presensi.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
